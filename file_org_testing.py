@@ -3,7 +3,6 @@ import os
 import shutil
 import pathlib
 
-
 app = QApplication([])
 app.setStyle('Fusion')
 
